@@ -1,6 +1,6 @@
-# Claude 官网入口：一分钟教会你在国内使用上 Claude-3.7-sonnet~ 【2025/06/26 更新】        
+# Claude 官网入口：一分钟教会你在国内使用上 Claude-4-sonnet~ 【2025/07/01 更新】        
 
-国内轻松使用 [**Claude 中文版**](https://talk.lanjing.pro) 教程，**无需翻墙**，**支持 Claude 3.7 sonnet 及更多中文版功能**   
+国内轻松使用 [**Claude 中文版**](https://talk.lanjing.pro) 教程，**无需翻墙**，**支持 Claude 4 sonnet 及更多中文版功能**   
 
 本指南为您提供全面的 **Claude 国内使用指南**，包括国内可用的 [**Claude 官网入口**](https://xsimplechat.com)、[**Claude 3.7 sonnet**](https://talk.lanjing.pro)、[**Claude 国内入口**](https://xsimplechat.com)、[**Claude 官方网页版**](https://talk.lanjing.pro) 和详细的使用教程，帮助您快速上手 Claude。
 
