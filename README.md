@@ -1,4 +1,4 @@
-# Claude 官网入口：一分钟教会你在国内使用上 Claude-4-sonnet~ 【2025/08/07 更新】          
+# Claude 官网入口：一分钟教会你在国内使用上 Claude-4-sonnet~ 【2025/08/08 更新】          
 
 国内轻松使用 [**Claude 中文版**](https://gpt.lanjing.pro) 教程，**无需翻墙**，**支持 Claude 4 sonnet 及更多中文版功能**   
 
